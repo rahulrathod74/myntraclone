@@ -1,0 +1,216 @@
+{
+  "navbar": [
+    {
+      "id": 1,
+      "title": "Lipstick",
+      "url": "hello",
+      "rating": 5
+    }
+  ],
+  "middlesections1": [
+    {
+      "id": 1,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/a524e07c-ed76-4968-8ad4-55b8db9c2d2b1716817240714-Card27.png"
+    },
+    {
+      "id": 2,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/9acf04c8-7649-4f55-a3bd-a1e333779a0e1716817240658-Card25.png"
+    },
+    {
+      "id": 3,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/29a9de46-81ae-4555-bdd7-78300b2567bc1716817241544-Card24.png"
+    },
+    {
+      "id": 4,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/7e87c9a0-c98e-4ae3-ae71-a8b5e3c49cdb1716817240829-Card21.png"
+    },
+    {
+      "id": 5,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/33c8aa96-d132-4e1f-9137-c0da37c138041716817241175-Card19.png"
+    },
+    {
+      "id": 6,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/48cd2fad-27dd-4af7-bd30-535e874752c91716817241777-Card18.png"
+    },
+    {
+      "id": 7,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/aa063caf-f7bf-474f-a188-44f94d85f73b1716817240186-Card16.png"
+    },
+    {
+      "id": 8,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/677dd600-2c25-4e7a-a09b-8ce90f20be1a1716817241589-Card15.png"
+    },
+    {
+      "id": 9,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/7e8988a5-38cc-479f-8cc9-b49f778f097c1716817240153-Card14.png"
+    }
+  ],
+  "middlesections2": [
+    {
+      "id": 1,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/7d236373-2493-4bf0-bae8-2c57b5f4a5aa1716817240789-Card47.png"
+    },
+    {
+      "id": 2,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/497bc782-511b-4d03-b663-1ab2497c05591716817241752-Card46.png"
+    },
+    {
+      "id": 3,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/65a48c6b-ba40-40fa-b400-a0cb11ca94cd1716817241490-Card45.png"
+    },
+    {
+      "id": 4,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/b312f401-80fa-4357-8852-69128259abc01716817241205-Card44.png"
+    },
+    {
+      "id": 5,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/81642e31-a492-4bf8-bb5c-51756edb3fcc1716817242099-Card43.png"
+    },
+    {
+      "id": 6,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/48cd2fad-27dd-4af7-bd30-535e874752c91716817241777-Card18.png"
+    },
+    {
+      "id": 7,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/1d03935d-0d40-46d3-9033-6864792b04991716817241908-Card41.png"
+    },
+    {
+      "id": 8,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/59dceda2-2cde-4dc8-8122-091cd11320611716817240776-Card37.png"
+    },
+    {
+      "id": 9,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/46fdd098-535e-4f0e-a5fd-7232e9316db21716817240256-Card39.png"
+    },
+    {
+      "id": 10,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/9f27ddab-e8cd-448c-8658-1acce45e7e7a1716817240071-Card36.png"
+    }
+  ],
+  "middlesections3": [
+    {
+      "id": 1,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/2db5aa9a-1f8a-4fb9-8b39-f7f6508482201714636317363-Card105.png"
+    },
+    {
+      "id": 2,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/587801d7-906e-4965-8e41-901189bbd8b31714636317531-Card104.png"
+    },
+    {
+      "id": 3,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/581e1ea4-44fd-4d6a-adc6-c3e2f7cc556d1714636315742-Card103.png"
+    },
+    {
+      "id": 4,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/eda81314-b38b-4f57-a874-a369bde3680e1714636318115-Card102.png"
+    },
+    {
+      "id": 5,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/9c187ba0-fec4-4ec4-8035-b0a70ad9ab1e1714636318049-Card101.png"
+    },
+    {
+      "id": 6,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/42cc7d0e-2d4a-4b9d-9f35-db2b3d5955871714636315512-Card100.png"
+    },
+    {
+      "id": 7,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/5df3fd8a-b78d-477e-818d-09ce4dcfebd61714636318313-Card99.png"
+    },
+    {
+      "id": 8,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/a8d9c35a-ea36-4246-b9fb-cfb790c4fcbe1714636316988-Card98.png"
+    },
+    {
+      "id": 9,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/34018a63-cefb-4f4f-aba6-80f4eb0ad2141714636318439-Card97.png"
+    },
+    {
+      "id": 10,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/6cb9290c-be8b-4fe7-8f11-9f8a537d37031714636315889-Card96.png"
+    }
+  ],
+  "middlesections4": [
+    {
+      "id": 1,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/2f53604c-8c8b-48f0-bd12-44ff08e302761714636315839-Card115.png"
+    },
+    {
+      "id": 2,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/4a816212-9c8b-45d8-83a9-3251ced89d711714636318341-Card114.png"
+    },
+    {
+      "id": 3,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/ae021d4e-c33c-40d2-b7e8-fafed5be38ec1714636316932-Card113.png"
+    },
+    {
+      "id": 4,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/0fd42719-3b8d-4595-b23c-ba9578cee7651714636317908-Card112.png"
+    },
+    {
+      "id": 5,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/fd44093b-d7c4-4224-b44a-214c097ebf241714636315905-Card111.png"
+    },
+    {
+      "id": 6,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/3cf2f9e0-5eec-40b6-8d01-a77b373488521714636316917-Card110.png"
+    },
+    {
+      "id": 7,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/5b6f200b-e02f-4bc6-8a1a-e9bbc0f6940b1714636316526-Card109.png"
+    },
+    {
+      "id": 8,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/024ea8f0-2670-4d97-969e-d7b63e3689a71714636316501-Card108.png"
+    },
+    {
+      "id": 9,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/1bce4f8b-063c-4192-82d0-4191b35480541714636315437-Card107.png"
+    },
+    {
+      "id": 10,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/2/871dfdb1-c9a8-46d4-94b0-5a15514bb1061714636318156-Card106.png"
+    }
+  ],
+  "middlesections5": [
+    {
+      "id": 1,
+      "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/92d059b4-04f6-4691-a256-a91570be10ed1716817241877-Card13.png"
+    },
+    {
+        "id": 2,
+        "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/9ec87811-24d1-43d5-9780-b595bcb611801716817241092-Card11.png"
+    },
+    {
+        "id": 3,
+        "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/11951f26-d9de-404d-b2ba-7f29401e67bd1716817240855-Card10.png"
+    },
+    {
+        "id": 4,
+        "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/6d11bcaa-dbe0-42f7-ae67-57ec71ceafab1716817240467-Card9.png"
+    },
+    {
+        "id": 5,
+        "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/04a1d5b8-b930-476e-8693-4cf2eb46f8c71716817240644-Card8.png"
+    },
+    {
+        "id": 6,
+        "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/8720202d-39ff-4057-9bf5-330cc5dc70951716817240496-Card7.png"
+    },
+    {
+        "id": 7,
+        "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/e28df8e1-62bc-49d4-bb71-8a972c89be331716817241808-Card6.png"
+    },
+    {
+        "id": 8,
+        "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/b3006f12-9c85-4efe-8e06-9bef8c15c0e71716817241459-Card4.png"
+    },
+    {
+        "id": 9,
+        "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/65391c1f-f2fe-4910-8495-b8c59931c3cf1716817240584-Card3.png"
+    },
+    {
+        "id": 10,
+        "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2024/5/27/7ab12c52-2897-45b3-888b-f0853618ba281716817241515-Card2.png"
+    }
+  ]
+}
